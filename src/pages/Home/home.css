@@ -1,0 +1,47 @@
+.bgc{
+    background-color: rgb(9, 9, 9);
+  }
+.navbar{
+    --bs-navbar-color: #f8f9fa;
+}
+.navbar-nav{
+    color: rgb(245, 245, 245); 
+    --bs-nav-link-hover-color:rgb(7, 7, 155);    
+}
+.navbar-brand{
+    color: #f8f9fa;
+}
+.calender{
+    border: solid 1px;
+    border-color: black;
+    margin: top 2px;
+}
+#About{
+    background-color:rgb(187, 187, 192);
+    border: solid 1px;
+}
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+.carousel-div{
+    margin:0;
+    padding:0;
+}
+hbody{
+    overflow-x: hidden;
+}
+.cont{
+    text-align: center;
+}
+.size{
+    width:300px;
+    padding-left: 60px;
+}
+.cont{
+    text-align: left;
+}
+.contact{
+    padding-left: 20px;
+    margin-top: 20px;
+}

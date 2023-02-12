@@ -1,0 +1,13 @@
+.bgc{
+    background-color: rgb(9, 9, 9);
+  }
+  .navbar{
+    --bs-navbar-color: #f8f9fa;
+  }
+  .navbar-nav{
+    color: rgb(245, 245, 245); 
+    --bs-nav-link-hover-color:rgb(7, 7, 155);    
+  }
+  .navbar-brand{
+    color: #f8f9fa;
+  }
